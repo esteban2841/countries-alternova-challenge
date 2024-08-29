@@ -1,6 +1,6 @@
 # country-explorer-graphql
 
-After cloning the repository you should pull master changes and start installation of packages as the following:
+After cloning the repository you should only install the packages and run the dev enviroment if you want to run it locally the scripts are listed bellow:
 
 ## Project Setup
 
